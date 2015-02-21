@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "flyontheblog",
-    "repositoryName": "flyontheblog.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"flyontheblog","repositoryName":"flyontheblog.github.io","branch":"master"},"site":{"title":"Fly on the blog","url":"http://flyontheblog.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://flyontheblog.github.io/themes/Casper"}}
