@@ -2,7 +2,10 @@
 
 Yo, thant's my new blog. IThe posts should be focused on WildFly, and some other subjects around the fly.
 
-
+[source,AsciiDoc]
+----
+image::http://github.com/flyontheblog//images/flyontheblog.github.io[]
+----
 
 Note that, it's the first time that I'm blogging in english. It's not my first language, and I'm sure that I'll make a lot of mistakes. My goal will be to make myself understood, and share some technical content with you.
 
