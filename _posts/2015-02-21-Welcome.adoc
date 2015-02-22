@@ -1,5 +1,5 @@
 = Welcome =
- :hp-image: ../images/flyontheblog.png
+:hp-image: ../images/flyontheblog.png
 
 Yo, it's my new blog. It should be focused on WildFly, and some other subjects around the fly.
 
