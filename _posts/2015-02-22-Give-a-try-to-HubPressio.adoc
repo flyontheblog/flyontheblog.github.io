@@ -1,4 +1,4 @@
-= HubPress.io
+= Give a try to HubPress.io
 :hp-image: http://hubpress.io/img/freeze/logo.png
 
 
