@@ -1,9 +1,11 @@
 = HubPress.io
+:hp-image: http://hubpress.io/img/freeze/logo.png
+
 
 I told you that this blog will be focused on WildFly. OK, but my first _real_ one won't. For this one, I would like to share my love with http://hubpress.io[*HubPress.io*].
 
-Few weeks ago, I decided to start a new blog. I had to decide wether I should start it on link:blogger[Blogger] like my previous one or with an other tool. Blogger is cool for starting a new blog, because you can start very fast, with just a few setup. But after several years, I find it boring, especially when it comes with writing source code. And it generates an aweful HTML code. And it's proprietary. Wordpress may be a better option. Or https://en.wikipedia.org/wiki/And_Now_for_Something_Completely_Different[something completely different]...
+Few weeks ago, I decided to start a new blog. I had to decide wether I should start it on http://www.blogger.com[Blogger] like my previous one or with an other tool. Blogger is cool for starting a new blog, becasuse you can start very fast, with just a few setup. But after several years, I find it boring, especially when it comes with writing source code. And it generates an aweful HTML code. And it's proprietary. Wordpress may be a better option. Or https://en.wikipedia.org/wiki/And_Now_for_Something_Completely_Different[something completely different]...
 
 In the meantime, I discovered Asciidoctor. It's really cool for writing documentation. It has been adopted by a lot of open source projects and I've started to use it at work. Why not using it for a blog ? The first answer is : because it needs much more setup than Blogger or Wordpress. 
 
-Here come 
+Here comes http://hubpress.io[*HubPress.io*]
