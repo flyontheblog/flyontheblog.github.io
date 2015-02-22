@@ -4,8 +4,18 @@
 
 I told you that this blog will be focused on WildFly. OK, but my first _real_ one won't. For this one, I would like to share my love with http://hubpress.io[*HubPress.io*].
 
-Few weeks ago, I decided to start a new blog. I had to decide wether I should start it on http://www.blogger.com[Blogger] like my previous one or with an other tool. Blogger is cool for starting a new blog, becasuse you can start very fast, with just a few setup. But after several years, I find it boring, especially when it comes with writing source code. And it generates an aweful HTML code. And it's proprietary. Wordpress may be a better option. Or https://en.wikipedia.org/wiki/And_Now_for_Something_Completely_Different[something completely different]...
+Few weeks ago, I decided to start a new blog. I had to decide wether I should start it on https://www.blogger.com[Blogger] like my previous one or with an other tool. Blogger is cool for starting a new blog, becasuse you can start very fast, with just a few setup. But after several years, I find it boring, especially when it comes with writing source code. And it generates an aweful HTML code. And it's proprietary. Wordpress may be a better option. Or https://en.wikipedia.org/wiki/And_Now_for_Something_Completely_Different[something completely different]...
 
 In the meantime, I discovered Asciidoctor. It's really cool for writing documentation. It has been adopted by a lot of open source projects and I've started to use it at work. Why not using it for a blog ? The first answer is : because it needs much more setup than Blogger or Wordpress. 
 
-Here comes http://hubpress.io[*HubPress.io*]
+Here comes http://hubpress.io[*HubPress.io*]. In a few minutes, I could start writing the Welcome post, online in the AsciiDoc format, host by GitHub pages. All what I wanted.
+
+* *Github organization* : I already had an organisation call flyontheblog, so that I could have a dedicated GitHub page.
+* *Clone the repository* : I've clone the HubPress.io repository, and renamed it to flyontheblog.github.io
+* *Setup* : I've put the settings in the /hubpress/config.json file, configured online the title and description of the blog, and choose a template.
+* *Write* : Yeah, it's online, I can write a Welcome post.
+
+Try it, it's really cool, even if it's only in preview.
+
+And of course, there are other ways to make it work, read the doc if you want to know more about it. And give feedback to http://github.com/anthonny[Anthonny Quérouil].
+
