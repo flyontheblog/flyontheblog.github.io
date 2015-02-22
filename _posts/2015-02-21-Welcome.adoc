@@ -1,4 +1,5 @@
 = Welcome =
+ :hp-image: ../images/flyontheblog.png
 
 Yo, thant's my new blog. IThe posts should be focused on WildFly, and some other subjects around the fly.
 
