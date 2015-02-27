@@ -1,4 +1,4 @@
-= How to disable security for the management tools on  WildFly
+= How to disable security for the management tools on  WildFly ?
 
 == Why ?
 
