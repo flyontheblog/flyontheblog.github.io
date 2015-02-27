@@ -1,0 +1,33 @@
+= How to disable security for the management tools on  WildFly
+
+== Why ?
+
+Yes, why would I disable authentication a let anybody access to the management tools ? Oh, just for dev / test stuff. 
+
+I'm working on a home made console that uses the HTTP/JSON API, and it is much easier to test the console towards a non secured WildFly.
+
+== How ?
+
+In the default configuration, the management interface is configured this way :
+
+[source,ruby]
+----
+<management-interfaces>
+  <http-interface security-realm="ManagementRealm" http-upgrade-enabled="true">
+    <socket-binding http="management-http"/>
+  </http-interface>
+</management-interfaces>
+---- 
+
+I've dropped the *security-realm* attribute : 
+
+
+---- 
+<management-interfaces>
+  <http-interface http-upgrade-enabled="true">
+    <socket-binding http="management-http"/>
+  </http-interface>
+</management-interfaces>
+---- 
+
+Now I can acces to the Web console (http://localhost:9990) without being asked to log in. And I can use the HTTP API (http://localhost:9990/management) without a username and password.
