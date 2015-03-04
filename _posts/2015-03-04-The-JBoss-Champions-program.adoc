@@ -1,0 +1,22 @@
+= The JBoss Champions program
+
+RedHat has announced a new program : the http://www.jboss.org/champions/[JBoss Champions]. 12 members of the JBoss community have been chosen to be part of the first batch :
+
+* http://twitter.com/AdamBien[Adam Bien]
+* http://twitter.com/alexishassler[Alexis Hassler]
+* http://twitter.com/astefanut[Antonin Stefanutti]
+* http://twitter.com/agoncal[Antonio Goncalves]
+* http://twitter.com/majson[Bartosz Majsak]
+* http://twitter.com/mastertheboss[Francesco Marchioni]
+* http://twitter.com/geertshuring[Geert Schuring]
+* http://twitter.com/g_scheibel[Guillaume Scheibel]
+* Jaikiran Pai
+* http://twitter.com/JohnAment[John Ament]
+* http://twitter.com/marianbuenosayr[Mariano Nicolas De Maio]
+* http://twitter.com/javapapo[Paris Apostolopoulous]
+
+And *YES*, I'm in the list.
+
+== What is a JBoss Champion ?
+
+== Why me ?
